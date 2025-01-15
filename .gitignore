@@ -1,0 +1,6 @@
+/.zig-cache
+/.vscode
+/.vscode-server
+
+/CodeCollection_01.md
+/CodeCollection_02.md
