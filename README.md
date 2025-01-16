@@ -208,7 +208,7 @@ Password: &DIZnA%1W0K7X!f2Vv8f3v27!!WQ4&kzi#2nr61AP&)y)5k@6!0u3i!m)PM46Hj%46i2Qj
 
 5. Add the remote repository URL:
     ```sh
-    git remote add origin https://github.com/sisovine/Zig_Password_Generator.git
+    git remote add origin https://github.com/sisovin/Zig_Password_Generator.git
     ```
 
 6. Push the changes to GitHub:
